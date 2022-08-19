@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/cfla/Documents/Workspace/CC++/DataStructure/Chapter-9/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Dijkstra2.dir/src/Dijkstra2.cpp.obj -c D:/cfla/Documents/Workspace/CC++/DataStructure/Chapter-9/src/Dijkstra2.cpp",
+  "file": "D:/cfla/Documents/Workspace/CC++/DataStructure/Chapter-9/src/Dijkstra2.cpp"
+},
+{
+  "directory": "D:/cfla/Documents/Workspace/CC++/DataStructure/Chapter-9/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Dijkstra2.dir/src/Graph.cpp.obj -c D:/cfla/Documents/Workspace/CC++/DataStructure/Chapter-9/src/Graph.cpp",
+  "file": "D:/cfla/Documents/Workspace/CC++/DataStructure/Chapter-9/src/Graph.cpp"
+}
+]
